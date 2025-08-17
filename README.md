@@ -1,6 +1,12 @@
 # Hey everyone, I'm Mikkel!
 **Junior Software Engineer | Full-Stack Development**
-- BSc. Computer Science and Mathematics
+- BSc. Computer Science and Mathematics - First Class Honors
+- DevSecOps Intern @ CIBC Caribbean, Former SWE Intern @ Microsoft
+
+# Notable Achievements
+- Implemented the dark mode for the Microsoft Stream Web Application
+- Integrated new Dynamic Application Security Test (DAST) tool into CIBC Caribbean pipelines to improve ability to catch vulnerabilities before deployment
+- 4.20/4.30 GPA with Best Performances in the Faculty of Science and Technology
 
 # Languages and Tools
 - Frontend - TypeScript, JavaScript, React, HTML, CSS
